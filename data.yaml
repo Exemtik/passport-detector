@@ -1,0 +1,5 @@
+train: C:/Users/exemt/OneDrive/Desktop/passport_recognition/yolo_dataset_split/images/train
+val: C:/Users/exemt/OneDrive/Desktop/passport_recognition/yolo_dataset_split/images/val
+
+nc: 9
+names: ["Date of birth", "Gender", "Last name", "Name", "Passport number", "Passport series", "Photo", "Place of birth", "Surname"]

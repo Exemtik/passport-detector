@@ -1,0 +1,4 @@
+# YOLOv5 dataset configuration
+train: ./images
+nc: 9  # number of classes
+names: ['Date of birth', 'Gender', 'Last name', 'Name', 'Passport number', 'Passport series', 'Photo', 'Place of birth', 'Surname']

@@ -1,0 +1,9 @@
+Date of birth
+Gender
+Last name
+Name
+Passport number
+Passport series
+Photo
+Place of birth
+Surname
