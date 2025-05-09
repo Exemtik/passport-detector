@@ -171,6 +171,11 @@ python detect_and_extract.py
 
 ## Пример результата
 
+Результат, полученный при помощи YOLO5
+![Результат обучения YOLO5](yolov5\runs\detect\exp2\passport_2.png)
+
+Результат, сгенерированный при помощи `draw.py`
+![Заново полученное изображение](data\output_with_boxes.png)
 ```
 {
   "Date of birth": "16.12.1984",
